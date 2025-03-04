@@ -6,6 +6,7 @@ import dk.easv.bll.game.IGameState;
 import dk.easv.bll.move.IMove;
 import dk.easv.bll.move.Move;
 
+import java.util.List;
 
 
 public class LocalPrioritisedListBot implements IBot {
